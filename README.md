@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour👋, je suis Aniket Ganguly</h1>
-<h3 align="center">a passionate geek from India</h3>
+<h3 align="center">A passionate Geek from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://tenor.com/search/anime-pc-gifs"
+<img align="right" alt="Coding" width="400" src="https://cdn.myanimelist.net/s/common/uploaded_files/1472514013-ddea489c327f20122445ee7ff8183144.jpeg">
 
 
 
