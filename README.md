@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **JAVA, PYTHON, HTML, CSS, C/C++**
+- 💬 Ask me about **JAVA, PYTHON, C/C++, HTML, CSS,JAVAScript**
 
 - 📫 How to reach me **piclu26072003@gmail.com**
 
